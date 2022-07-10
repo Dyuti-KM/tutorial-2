@@ -17,11 +17,10 @@ body {
   /* add correct code to place the grid elements 
   one beside the other equally.   */
   display: flex;
-  flex:content;
+ justify-content: space-evenly;
     flex-wrap:wrap;
     font-family: sans-serif;
-  
-}
+  }
 
 
 .grid img {
